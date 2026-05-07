@@ -1,0 +1,1 @@
+# article_about_photo_tables
